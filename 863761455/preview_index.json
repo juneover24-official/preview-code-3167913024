@@ -1,7 +1,7 @@
 {
   "qq_number": "3167913024",
   "group_number": "863761455",
-  "updated_at": "2026-09-28T01:53:19+00:00",
+  "updated_at": "2026-09-28T01:53:24+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -200,6 +200,12 @@
       "file": "盲漂-wyhQ小海豹椰子.bds",
       "thumb": "盲漂-wyhQ小海豹椰子.bds_py_26_light_thumb.png",
       "full": "盲漂-wyhQ小海豹椰子.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "wyh.Q小海豹椰子",
+      "file": "盲漂-wyhQ小海豹椰子.bdi",
+      "thumb": "盲漂-wyhQ小海豹椰子.bdi_py_26_light_thumb.png",
+      "full": "盲漂-wyhQ小海豹椰子.bdi_py_26_light_thumb.png"
     }
   ]
 }
