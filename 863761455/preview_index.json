@@ -1,7 +1,7 @@
 {
   "qq_number": "3167913024",
   "group_number": "863761455",
-  "updated_at": "2026-09-28T02:58:50+00:00",
+  "updated_at": "2026-09-28T02:58:57+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -309,6 +309,12 @@
       "file": "②盲wyhQ小樱和知世.bdi",
       "thumb": "②盲wyhQ小樱和知世.bdi_py_26_light_thumb.png",
       "full": "②盲wyhQ小樱和知世.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "字漂wyhQ小樱和知世.bds",
+      "thumb": "字漂wyhQ小樱和知世.bds_py_26_light_thumb.png",
+      "full": "字漂wyhQ小樱和知世.bds_py_26_light_thumb.png"
     }
   ]
 }
