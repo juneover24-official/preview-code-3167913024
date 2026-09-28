@@ -1,7 +1,7 @@
 {
   "qq_number": "3167913024",
   "group_number": "863761455",
-  "updated_at": "2026-09-28T03:41:46+00:00",
+  "updated_at": "2026-09-28T03:53:17+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -452,6 +452,13 @@
       "file": "2字_wyhQ麦当当.bds",
       "thumb": "2字_wyhQ麦当当.bds_py_26_light_thumb.png",
       "full": "2字_wyhQ麦当当.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "1字·wyh.Q麦当当",
+      "file": "透明②字wyhQ麦当当1.bdi",
+      "thumb": "透明②字wyhQ麦当当1.bdi_py_26_light_thumb.png",
+      "full": "透明②字wyhQ麦当当1.bdi_py_26_light_thumb.png",
+      "file_id": "9209853a9651fc6fc84dcd8f4e2bd8a7"
     }
   ]
 }
