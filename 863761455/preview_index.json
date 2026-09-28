@@ -1,7 +1,7 @@
 {
   "qq_number": "3167913024",
   "group_number": "863761455",
-  "updated_at": "2026-09-28T01:31:58+00:00",
+  "updated_at": "2026-09-28T01:32:03+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -92,6 +92,12 @@
       "file": "字漂wyhQ中华料理.bds",
       "thumb": "字漂wyhQ中华料理.bds_py_26_light_thumb.png",
       "full": "字漂wyhQ中华料理.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "wyh.Q中华料理",
+      "file": "盲wyhQ中华料理.bdi",
+      "thumb": "盲wyhQ中华料理.bdi_py_26_light_thumb.png",
+      "full": "盲wyhQ中华料理.bdi_py_26_light_thumb.png"
     }
   ]
 }
