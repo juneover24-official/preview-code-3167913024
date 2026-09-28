@@ -1,7 +1,7 @@
 {
   "qq_number": "3167913024",
   "group_number": "863761455",
-  "updated_at": "2026-09-28T01:39:55+00:00",
+  "updated_at": "2026-09-28T01:40:01+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -104,6 +104,12 @@
       "file": "②盲漂wyhQ棉花糖的一天.bdi",
       "thumb": "②盲漂wyhQ棉花糖的一天.bdi_py_26_light_thumb.png",
       "full": "②盲漂wyhQ棉花糖的一天.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "②字wyhQ棉花糖的一天.bds",
+      "thumb": "②字wyhQ棉花糖的一天.bds_py_26_light_thumb.png",
+      "full": "②字wyhQ棉花糖的一天.bds_py_26_light_thumb.png"
     }
   ]
 }
