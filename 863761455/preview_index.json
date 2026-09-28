@@ -1,7 +1,7 @@
 {
   "qq_number": "3167913024",
   "group_number": "863761455",
-  "updated_at": "2026-09-28T03:22:25+00:00",
+  "updated_at": "2026-09-28T03:22:29+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -400,6 +400,12 @@
       "file": "盲打漂浮wyhQ鼠鼠爱桃子.bds",
       "thumb": "盲打漂浮wyhQ鼠鼠爱桃子.bds_py_26_light_thumb.png",
       "full": "盲打漂浮wyhQ鼠鼠爱桃子.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "盲打漂浮wyhQ鼠鼠爱桃子.bdi",
+      "thumb": "盲打漂浮wyhQ鼠鼠爱桃子.bdi_py_26_light_thumb.png",
+      "full": "盲打漂浮wyhQ鼠鼠爱桃子.bdi_py_26_light_thumb.png"
     }
   ]
 }
