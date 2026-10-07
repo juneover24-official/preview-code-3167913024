@@ -1,7 +1,7 @@
 {
   "qq_number": "3167913024",
   "group_number": "863761455",
-  "updated_at": "2026-10-07T15:02:08+00:00",
+  "updated_at": "2026-10-07T15:02:17+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -566,6 +566,12 @@
       "file": "②无漂wyhQ草莓巧克力.bds",
       "thumb": "②无漂wyhQ草莓巧克力.bds_py_26_light_thumb.png",
       "full": "②无漂wyhQ草莓巧克力.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "①无漂wyhQ草莓巧克力.bds",
+      "thumb": "①无漂wyhQ草莓巧克力.bds_py_26_light_thumb.png",
+      "full": "①无漂wyhQ草莓巧克力.bds_py_26_light_thumb.png"
     }
   ]
 }
